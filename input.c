@@ -13,4 +13,6 @@ void main (){
     printf("Alamat : ");
     getchar();
     gets(alamat);
+
+    printf("\nTidak Ada Output");
 }
