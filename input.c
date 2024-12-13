@@ -14,5 +14,11 @@ void main (){
     getchar();
     gets(alamat);
 
+    printf("\n\n");
+    printf("Output : \n");
+    printf("Nama : %s\n", nama);
+    printf("Usia : %d\n", umur);
+    printf("Alamat : %s\n", alamat);
+
     printf("\nTidak Ada Output");
 }
