@@ -19,6 +19,4 @@ void main (){
     printf("Nama : %s\n", nama);
     printf("Usia : %d\n", umur);
     printf("Alamat : %s\n", alamat);
-
-    printf("\nTidak Ada Output");
 }
